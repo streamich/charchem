@@ -1,6 +1,6 @@
 {
   "name": "charchem",
   "description": "Mirror of CharChem http://charchem.org",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "easychem.js"
 }
